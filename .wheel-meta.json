@@ -1,0 +1,22 @@
+{
+  "wheel_id": 671,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-109",
+  "project": "retaining-wall-installation-brisbane-pros-and-cons-aa9b9809ea65",
+  "parent_t1_ref": "qldretainingandfencing-154",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane pros and cons",
+  "intended_url": "https://sitesau.github.io/qldretainingandfencing-109/",
+  "tier": "T2",
+  "writeback_nonce": "0d19ec655d43afc5",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-checklist-2cb238572c696a2f/",
+      "anchor": "this retaining wall installation brisbane checklist resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
